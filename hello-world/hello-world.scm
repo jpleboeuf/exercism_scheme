@@ -1,5 +1,6 @@
 (import (rnrs))
 
 (define (hello-world)
-  'implement-me!)
+  "Hello, World!"
+  )
 
